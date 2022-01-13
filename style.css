@@ -1,17 +1,18 @@
 body {
-    background-color:white;
+    background-color:black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:white
 }
 h1{
     text-align: center;
     text-indent: 10px;
-    color: #f64c72;
+    color: grey;
 }
 .maindiv{
+    
     text-align: center;
-    background-color: #553d67;
-    color:white;
+    background-color: white;
+    color:black;
     width: 600px;
     height: 300px;
     padding: 20px;
